@@ -1,6 +1,6 @@
-![MasterHead](https://img.freepik.com/free-vector/business-startup-project-launch-successful-idea_107791-13323.jpg?w=1380&t=st=1665763824~exp=1665764424~hmac=b4fccade8cddb315cf99b04ef9ed4fb8ba3cc01202f15992717d50cdfcb3fa0e)
 <h1 align="center">Hi 👋, I'm Dinesh</h1>
 <h3 align="center"> Passionate on Designing !</h3>
+<img align="right" alt="coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 - 🌱 I’m currently learning Java Core and UX/UI Designing
 
 - 💬 Ask me about **Languages & Designings**
