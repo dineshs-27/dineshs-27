@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinesh</h1>
 <h3 align="center"> Passionate on Designing !</h3>
 <img align="right" alt="coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
+
 - 🌱 I’m currently learning Java Core and UX/UI Designing
 
 - 💬 Ask me about **Languages & Designings**
