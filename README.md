@@ -1,4 +1,4 @@
-![logo](https://github.com/dineshs-27/dineshs-27/blob/main/Github%20Banner.png)
+![logo](https://github.com/dineshs-27/dineshs-27/blob/main/Git%20Banner.png)
 <h1 align="center">Hi 👋, I'm Dinesh</h1>
 <h3 align="center">Passionate on Designing and in Tech field !</h3>
 <img align="right" alt="coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
